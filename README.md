@@ -1,6 +1,6 @@
 # Hello Everyone!
 My name is Rahmat Pratami
-I
+I'am software engineer student from Telkom University
 
 <p align="left">
 <a href="https://github.com/R1zarD9K">
